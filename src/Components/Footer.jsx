@@ -19,7 +19,7 @@ export default function SimpleFooter() {
           <ul className="flex flex-col text-sm font-medium text-gray-500 dark:text-gray-400 mt-0 sm:mt-0">
             <li>
               <a href="https://www.instagram.com/adnan.f13h">
-                Muhammad Adnan Fadillah
+                Muhamad Adnan Fadillah
               </a>
             </li>
             <li>
